@@ -1,0 +1,232 @@
+==> Building model..
+
+Epoch: 0
+Saving..
+
+Epoch: 1
+Saving..
+
+Epoch: 2
+Saving..
+
+Epoch: 3
+Saving..
+
+Epoch: 4
+Saving..
+
+Epoch: 5
+Saving..
+
+Epoch: 6
+
+Epoch: 7
+
+Epoch: 8
+Saving..
+
+Epoch: 9
+Saving..
+
+Epoch: 10
+
+Epoch: 11
+
+Epoch: 12
+Saving..
+
+Epoch: 13
+Saving..
+
+Epoch: 14
+
+Epoch: 15
+Saving..
+
+Epoch: 16
+
+Epoch: 17
+
+Epoch: 18
+
+Epoch: 19
+
+Epoch: 20
+
+Epoch: 21
+
+Epoch: 22
+
+Epoch: 23
+
+Epoch: 24
+
+Epoch: 25
+
+Epoch: 26
+
+Epoch: 27
+
+Epoch: 28
+
+Epoch: 29
+
+Epoch: 30
+
+Epoch: 31
+
+Epoch: 32
+
+Epoch: 33
+
+Epoch: 34
+
+Epoch: 35
+
+Epoch: 36
+
+Epoch: 37
+
+Epoch: 38
+
+Epoch: 39
+
+Epoch: 40
+
+Epoch: 41
+
+Epoch: 42
+
+Epoch: 43
+
+Epoch: 44
+
+Epoch: 45
+
+Epoch: 46
+
+Epoch: 47
+0.6
+
+The test dataset loss is 0.23416299919287364
+
+The test dataset kendall is 0.4187949050159008
+
+Epoch: 0
+
+Epoch: 1
+
+Epoch: 2
+
+Epoch: 3
+
+Epoch: 4
+
+Epoch: 5
+
+Epoch: 6
+
+Epoch: 7
+
+Epoch: 8
+
+Epoch: 9
+
+Epoch: 10
+
+Epoch: 11
+
+Epoch: 12
+
+Epoch: 13
+
+Epoch: 14
+
+Epoch: 15
+
+Epoch: 16
+
+Epoch: 17
+
+Epoch: 18
+
+Epoch: 19
+
+Epoch: 20
+
+Epoch: 21
+
+Epoch: 22
+
+Epoch: 23
+
+Epoch: 24
+
+Epoch: 25
+
+Epoch: 26
+
+Epoch: 27
+
+Epoch: 28
+
+Epoch: 29
+
+Epoch: 30
+
+Epoch: 31
+
+Epoch: 32
+
+Epoch: 33
+
+Epoch: 34
+
+Epoch: 35
+
+Epoch: 36
+
+Epoch: 37
+
+Epoch: 38
+
+Epoch: 39
+
+Epoch: 40
+
+Epoch: 41
+
+Epoch: 42
+
+Epoch: 43
+
+Epoch: 44
+
+Epoch: 45
+
+Epoch: 46
+
+Epoch: 47
+0.7
+
+The test dataset loss is 0.23944029013315837
+
+The test dataset kendall is 0.41879298201756177
+
+Epoch: 0
+
+Epoch: 1
+
+Epoch: 2
+
+Epoch: 3
+
+Epoch: 4
+
+Epoch: 5
+
+Epoch: 6
+
+Epoch: 7
+
+Epoch: 8
