@@ -1,6 +1,6 @@
 ## IDE Ranknet
 
-This is the repo of paper [IDE RankNet: Estimating the difficulty of visual search in an image](paper/IDE RankNet.pdf)
+This is the repo of paper [IDE RankNet: Estimating the difficulty of visual search in an image](/paper/IDE RankNet.pdf)
 
 **Abstract**
 
@@ -34,4 +34,4 @@ MSE and [Kendall's corelation efficients](https://en.wikipedia.org/wiki/Kendall_
 4. Results:
 As follow investigation of IDE RankNet with different settings on test dataset 
 
-<div align="center"><img src="/papers/result.png" /></div>
+<div align="center"><img src="/paper/result.png" /></div>
