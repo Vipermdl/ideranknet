@@ -1,6 +1,6 @@
 ## IDE Ranknet
 
-This is the repo of paper [IDE RankNet: Estimating the difficulty of visual search in an image](./papers/IDE RankNet.pdf)
+This is the repo of paper [IDE RankNet: Estimating the difficulty of visual search in an image](paper/IDE RankNet.pdf)
 
 **Abstract**
 
